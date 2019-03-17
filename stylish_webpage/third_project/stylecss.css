@@ -1,0 +1,71 @@
+/* This is a CSS comment.*/
+* {
+   outline: 0px solid blue !important;
+   -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   -ms-box-sizing: border-box;
+   box-sizing: border-box;
+}
+
+body {
+    padding: 20px 10px;
+    font-family: Helvetica;
+    max-width: 2000px;
+    margin: 0 auto;
+    font-size: 1.4em;
+}
+
+h1 {
+    text-align: center;
+    color: #294868;
+}
+
+h2 {
+    background-color: #f8981C;
+    color: white;
+    font-size: 48px;
+    font-family: Helvetica;
+    text-align: center;
+    padding: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ol {
+    list-style-type: none;
+}
+
+li {
+    font-size: 20px;
+    line-height: 40px;
+}
+
+.description {
+    color:black;
+    max-width: 1100px;
+    text-align: center;
+
+}
+
+.app {
+    display: flex;
+    display: -webkit-flex;
+    display: flex;
+}
+
+
+
+.difference {
+    color:black;
+    max-width: 1400px;
+    font-family: Helvetica;
+    text-align: center;
+    padding: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+
+}
